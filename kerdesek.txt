@@ -59,3 +59,10 @@ Pesek Patrik
 
 Kun-Szulyák Róbert
 IDK
+
+
+A felsoroltak közül, melyeknek vannak kapcsolói? (Nagy-Erdei Móric) 
+  a. git log
+  b. git branch
+  c. git tag
+  d. git init
