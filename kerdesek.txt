@@ -5,6 +5,13 @@ b) git blame [file]
 c) git history
 d) git past
 
+Lázár Boldizsár
+Melyik commandok szükségesek a git konfigurálásához?
+a)git config user.name "név"
+b)git init
+c)git add
+d)git config user.email "e-mail cím"
+
 Név: Szomor Levente Péter
 Kérdés: Mi a README.md fájl szerepe a GitHubon?
 
