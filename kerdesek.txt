@@ -4,3 +4,15 @@ a) git log (jó válasz)
 b) git blame [file]
 c) git history
 d) git past
+
+Név: Szomor Levente Péter
+Kérdés: Mi a README.md fájl szerepe a GitHubon?
+
+Válaszok:
+
+    A README.md egy titkos fájl a GitHubon, amit csak a fejlesztők láthatnak.
+    A README.md egy olyan fájl, amelyben a projekt tervezésekor használt ábécé sorrendben felsorolják az összes betűt.
+    A README.md egy fontos dokumentációs fájl, amelyben leírják a projekt célját, használatát és telepítési útmutatót adnak.
+    A README.md egy olyan fájl, amelyben a GitHub felhasználók személyes visszajelzéseit gyűjtik össze a projektről.
+
+Jó válasz: 3. A README.md egy fontos dokumentációs fájl, amelyben leírják a projekt célját, használatát és telepítési útmutatót adnak.
