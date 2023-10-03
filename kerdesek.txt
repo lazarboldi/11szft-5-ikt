@@ -24,10 +24,9 @@ $ git diff EZ A JÓ VÁLASZ
 $ git branch
 $ git add [file]
 
-LaZan Boldizsan
-Melyik commandok szükségesek a git konfiguraläsahoz?
-a）git config
-user_name "nev"
-b)git init
-cgit adc
-d)git config user-email "e-mail cím"|
+Lázár Boldizsár
+Melyik commandok szükségesek a git konfigurálásához?
+a）git config user_name "nev"
+b) git init
+c) git add
+d) git config user-email "e-mail cím"|
