@@ -51,6 +51,11 @@ Melyik parancs helyes az alábbiak közül:
 2. git pull --rebase (helyes)
 3. git push -rebase
 4. git push --rebase
+Pesek Patrik
+1. Hogyan hozod vissza az előző verziókat? válasz: git pull
+2. Mutassa meg a teljes változásokat: git log
+3. csináljon új branchet: git branch neve
+4. Gites segítség kérérs: git command --help
 
 Kun-Szulyák Róbert
 IDK
