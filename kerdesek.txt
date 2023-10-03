@@ -44,3 +44,10 @@ a, git blame
 b, git status (helyes)
 c, git log
 d, git add 
+
+Sinka Dávid
+Melyik parancs helyes az alábbiak közül:
+1. git pull -rebase
+2. git pull --rebase (helyes)
+3. git push -rebase
+4. git push --rebase
