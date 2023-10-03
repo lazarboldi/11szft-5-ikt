@@ -23,3 +23,9 @@ $ git command --help
 $ git diff EZ A JÓ VÁLASZ
 $ git branch
 $ git add [file]
+
+Tóth Balázs - Hogyan tudod megadni a felhasználó neved egy repóba? 
+1. git add user.name "nev"; (Helyes) 
+2. git config --global user.name "nev"; 
+3. git config -global user.name "nev";
+4. Nem lehet megadni nevet;
