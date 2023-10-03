@@ -1,1 +1,6 @@
-
+Szabó Dávid
+Hogyan nézheted meg az eddigi összes változtatást ami történt?
+a) git log (jó válasz)
+b) git blame [file]
+c) git history
+d) git past
