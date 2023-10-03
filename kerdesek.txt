@@ -29,3 +29,10 @@ Tóth Balázs - Hogyan tudod megadni a felhasználó neved egy repóba?
 2. git config --global user.name "nev"; 
 3. git config -global user.name "nev";
 4. Nem lehet megadni nevet;
+
+Kiss Dominik
+A git fetch parancs szinkronizálja az online és a lokális repot
+
+igaz (jó válasz)
+hamis
+ 
