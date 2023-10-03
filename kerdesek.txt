@@ -36,3 +36,11 @@ A git fetch parancs szinkronizálja az online és a lokális repot
 igaz (jó válasz)
 hamis
  
+Kovács Ádám
+Melyik parancsal tudjuk kilistázni az új vagy változtatott
+fájlokat amiket nem commitoltunk?
+
+a, git blame
+b, git status (helyes)
+c, git log
+d, git add 
