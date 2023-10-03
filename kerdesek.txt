@@ -59,3 +59,10 @@ Pesek Patrik
 
 Kun-Szulyák Róbert
 IDK
+
+Lázár Boldizsár
+Melyik commandok szükségesek a git konfigurálásához?
+a)git config user.name "név"
+b)git init
+c)git add
+d)git config user.email "e-mail cím"
